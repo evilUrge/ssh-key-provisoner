@@ -1,0 +1,14 @@
+{
+  "host-name-1": {
+    "user": "host-user-name",
+    "host": "host-ip-or addr"
+  },
+  "host-name-2": {
+    "user": "host-user-name",
+    "host": "host-ip-or addr"
+  },
+  "host-name-3": {
+    "user": "host-user-name",
+    "host": "host-ip-or addr"
+  }
+}
