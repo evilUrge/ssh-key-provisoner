@@ -1,5 +1,8 @@
 # SSH Key provisioner  
 ---  
+
+<a href="https://codeclimate.com/github/evilUrge/ssh-key-provisioner/maintainability"><img src="https://api.codeclimate.com/v1/badges/3670183459c84ea3486b/maintainability" /></a>
+
 Simple python tool for provisioning ssh keys.
 ##### Now with DigitalOcean droplets and Vultr VC2 support!
 
